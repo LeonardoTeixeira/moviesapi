@@ -1,5 +1,5 @@
 # API de Filmes
-Exemplo de uma API de filmes escrita em *Golang* usando os servicos *API Gateway*, *Lambda* e *DynamoDB*.
+Exemplo de uma API de filmes escrita em *Golang* usando os servicos [API Gateway](https://aws.amazon.com/pt/api-gateway/), [Lambda](https://aws.amazon.com/pt/lambda/) e [DynamoDB](https://aws.amazon.com/pt/dynamodb/).
 
 ## DynamoDB
 Criar uma tabela chamada `movies` com os campos `id`, `name` e `image`:
